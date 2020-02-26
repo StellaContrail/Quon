@@ -3,11 +3,14 @@
     <span style="font-size: 15px;"> Quantum Mechanics Library with Fast Calculation/Easy Implementation for C++ Users</span>
 </header>
 <hr>
+<div text-align: center;>
 <table align="center"><tr>
 <th>
 <div style="text-align: center;">
-    <span style="font-size: 25px; font-weight: 500;">1D Harmonic Oscillator</span>
+    <span style="font-size: 35px; font-weight: 500;">1D Harmonic Oscillator</span>
     <br><br>
+    <img src="Images/1d_ho_time.png">
+    <br>
     <span style="font-weight: 700;"> Example 1: Simulation of 1D Harmonic Oscillator's time development </span>
 </div>
 </th></tr>
@@ -37,16 +40,17 @@ int main() {
 }
 ```
     
-<img src="Images/1d_ho_time.png">
 </td></tr></table>
 
-<br><br><br>
+<br>
 
 <table align="center"><tr>
 <th>
 <div style="text-align: center;">
-    <span style="font-size: 25px; font-weight: 500;">Superfluid</span>
+    <span style="font-size: 35px; font-weight: 500;">Superfluid</span>
     <br><br>
+    <img src="Images/1d_gpe_static.png">
+    <br>
     <span style="font-weight: 700;"> Example 2: Ground state of 1D Gross-Pitaevskii Equation </span>
 </div>
 </th></tr>
@@ -76,5 +80,5 @@ int main() {
 }
 ```
     
-<img src="Images/1d_gpe_static.png">
 </td></tr></table>
+</div>
